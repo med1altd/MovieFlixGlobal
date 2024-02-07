@@ -14,7 +14,7 @@
       "MaxDailyAdRequests": 100,
       "isActivationRequired": true,
       "promote": false,
-      "promoteTitle": "GreekMovies Update Available",
+      "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
       "promoteButtonTitle": "Download Now!",
       "promoteUrl": "https://www.filmxy.vip/",
@@ -24,14 +24,14 @@
       "promoteActivities": "TV, Movies, Series",
       "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
       "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
-      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.0.5) της εφαρμογής \"GreekMovies: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.0.5) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
       "minVersion": "1.0.3",
       "maxVersion": "1.0.4",
       "contactName": "Med1a Ltd",
       "contactEmail": "medialtdcontact@gmail.com",
-      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"GreekMovies\"",
-      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"GreekMovies\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
-      "PrivacyPolicyUrl": "https://sites.google.com/view/greekmoviesapp/privacy-policy",
+      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
+      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MovieFlix\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
+      "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixglobalapp/privacy-policy",
       "DMCAUrl": "https://forms.gle/gNxVYuQDmgiXCanQ8",
       "MoreImageUrl": "https://i.ibb.co/nRkWFQG/MORE.png",
       "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
@@ -99,9 +99,9 @@
   "Rating": [
     {
       "isRatingVisible": true,
-      "RatingUrl": "https://play.google.com/store/apps/details?id=com.med1altd.greekmovies",
+      "RatingUrl": "https://play.google.com/store/apps/details?id=com.med1a.movieflix",
       "isInfoVisible": true,
-      "InfoText": "Αποποίηση Ευθυνών για την Εφαρμογή:\n\nΗ παρούσα αποποίηση ευθυνών αναφέρεται στη χρήση και τη λειτουργία της εφαρμογής GreekMovies, εντός των πλαισίων της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, σύμφωνα με το άρθρο 15 της εν λόγω Οδηγίας.\n\nΣύμφωνα με την Ευρωπαϊκή Οδηγία 2000/31/ΕΚ, άρθρο 15, η εταιρεία φιλοξενίας δεν φέρει γενική υποχρέωση να παρακολουθεί τα περιεχόμενα που μεταφέρονται ή αποθηκεύονται μέσω της εφαρμογής. Συνεπώς, επισημαίνουμε ότι η ευθύνη για το περιεχόμενο που δημιουργούν ή μεταφέρουν οι χρήστες ανήκει αποκλειστικά σε αυτούς τους χρήστες.\n\nΟι χρήστες της εφαρμογής GreekMovies είναι υπεύθυνοι για την τήρηση όλων των ισχυόντων νόμων και κανονισμών σχετικά με το περιεχόμενο που προσθέτουν ή μοιράζονται. Η εταιρεία διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να παρακολουθεί, να φιλτράρει, να επεξεργάζεται ή να αφαιρεί περιεχόμενο που θεωρεί ότι παραβιάζει τους όρους χρήσης ή τις νομικές απαιτήσεις.\n\nΠροτού οι χρήστες προβούν σε οποιαδήποτε νομική διαδικασία, υποχρεούνται να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής GreekMovies. Σε περίπτωση παράκαμψης του παραπάνω όρου της εφαρμογής, η εταιρεία προγραμματιστών μας θα επιφυλαχθεί του δικαιώματος να κινηθεί νομικά εναντίον οποιουδήποτε παραβιάζει τους όρους χρήσης.\n\nΕπιπλέον, υπάρχει περιεχόμενο εντός της εφαρμογής που μπορεί να ξεκλειδωθεί από τους χρήστες με την εισαγωγή ενός μοναδικού κωδικού. Όσοι χρήστες επιθυμούν να δημιουργήσουν λίστα με ενσωματωμένο περιεχόμενο (Τηλεοπτικά Κανάλια, Ταινίες & Σειρές) και να το μοιραστούν μαζί με άλλους χρήστες, έχουν την επιλογή να αποκτήσουν από την ομάδα προγραμματιστών μας έναν ξεχωριστό κωδικό περιεχομένου. Η εταιρεία δεν φέρει καμία ευθύνη για το υλικό αυτό, και σε περίπτωση επιθυμίας διαγραφής ολόκληρου ή τμήματος του συγκεκριμένου περιεχομένου συνίσταται η υποβολή της ειδικής φόρμας DMCA που βρίσκεται στο κάτω μέρος της συγκεκριμένης σελίδας.",
+      "InfoText": "Αποποίηση Ευθυνών για την Εφαρμογή:\n\nΗ παρούσα αποποίηση ευθυνών αναφέρεται στη χρήση και τη λειτουργία της εφαρμογής MovieFlix, εντός των πλαισίων της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, σύμφωνα με το άρθρο 15 της εν λόγω Οδηγίας.\n\nΣύμφωνα με την Ευρωπαϊκή Οδηγία 2000/31/ΕΚ, άρθρο 15, η εταιρεία φιλοξενίας δεν φέρει γενική υποχρέωση να παρακολουθεί τα περιεχόμενα που μεταφέρονται ή αποθηκεύονται μέσω της εφαρμογής. Συνεπώς, επισημαίνουμε ότι η ευθύνη για το περιεχόμενο που δημιουργούν ή μεταφέρουν οι χρήστες ανήκει αποκλειστικά σε αυτούς τους χρήστες.\n\nΟι χρήστες της εφαρμογής MovieFlix είναι υπεύθυνοι για την τήρηση όλων των ισχυόντων νόμων και κανονισμών σχετικά με το περιεχόμενο που προσθέτουν ή μοιράζονται. Η εταιρεία διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να παρακολουθεί, να φιλτράρει, να επεξεργάζεται ή να αφαιρεί περιεχόμενο που θεωρεί ότι παραβιάζει τους όρους χρήσης ή τις νομικές απαιτήσεις.\n\nΠροτού οι χρήστες προβούν σε οποιαδήποτε νομική διαδικασία, υποχρεούνται να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής MovieFlix. Σε περίπτωση παράκαμψης του παραπάνω όρου της εφαρμογής, η εταιρεία προγραμματιστών μας θα επιφυλαχθεί του δικαιώματος να κινηθεί νομικά εναντίον οποιουδήποτε παραβιάζει τους όρους χρήσης.\n\nΕπιπλέον, υπάρχει περιεχόμενο εντός της εφαρμογής που μπορεί να ξεκλειδωθεί από τους χρήστες με την εισαγωγή ενός μοναδικού κωδικού. Όσοι χρήστες επιθυμούν να δημιουργήσουν λίστα με ενσωματωμένο περιεχόμενο (Τηλεοπτικά Κανάλια, Ταινίες & Σειρές) και να το μοιραστούν μαζί με άλλους χρήστες, έχουν την επιλογή να αποκτήσουν από την ομάδα προγραμματιστών μας έναν ξεχωριστό κωδικό περιεχομένου. Η εταιρεία δεν φέρει καμία ευθύνη για το υλικό αυτό, και σε περίπτωση επιθυμίας διαγραφής ολόκληρου ή τμήματος του συγκεκριμένου περιεχομένου συνίσταται η υποβολή της ειδικής φόρμας DMCA που βρίσκεται στο κάτω μέρος της συγκεκριμένης σελίδας.",
       "isSubscriptionVisible": false,
       "SubmissionUrl": "https://forms.gle/bf77yWXCaGeN8Z8i9"
     }
@@ -110,48 +110,48 @@
     {
       "TV": [
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionTV.json"
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionTV.json"
         }
       ],
       "Movies": [
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionKTMY.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionKTMY.json",
           "Category": 0
         },
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionET.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionET.json",
           "Category": 1
         },
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionEPT.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionEPT.json",
           "Category": 2
         }
       ],
       "Series": [
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionKSMY.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionKSMY.json",
           "Category": 0
         },
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionES.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionES.json",
           "Category": 1
         },
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionETS.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionETS.json",
           "Category": 2
         }
       ],
       "Kids": [
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionMPT.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionMPT.json",
           "Category": 0
         },
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionMPS.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionMPS.json",
           "Category": 1
         },
         {
-          "Url": "https://med1altd.github.io/GreekMovies/basicVersionPYK.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/basicVersionPYK.json",
           "Category": 2
         }
       ]
@@ -166,48 +166,48 @@
         {
           "TV": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionTV.json"
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionTV.json"
             }
           ],
           "Movies": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionKTMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionKTMY.json",
               "Category": 0
             },
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionET.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionET.json",
               "Category": 1
             },
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionEPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionEPT.json",
               "Category": 2
             }
           ],
           "Series": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionKSMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionKSMY.json",
               "Category": 0
             },
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionES.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionES.json",
               "Category": 1
             },
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionETS.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionETS.json",
               "Category": 2
             }
           ],
           "Kids": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionMPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionMPT.json",
               "Category": 0
             },
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionMPS.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionMPS.json",
               "Category": 1
             },
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionPYK.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionPYK.json",
               "Category": 2
             }
           ]
@@ -228,24 +228,24 @@
         {
           "TV": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionTV.json"
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionTV.json"
             }
           ],
           "Movies": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionKTMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionKTMY.json",
               "Category": 0
             }
           ],
           "Series": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionKSMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionKSMY.json",
               "Category": 0
             }
           ],
           "Kids": [
             {
-              "Url": "https://med1altd.github.io/GreekMovies/greekVersionMPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/greekVersionMPT.json",
               "Category": 0
             }
           ]
@@ -261,19 +261,19 @@
     {
       "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
       "Image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionKTMY.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionKTMY.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionET.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionET.json",
       "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionEPT.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionEPT.json",
       "isUnlocked": false
     }
   ],
@@ -281,19 +281,19 @@
     {
       "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
       "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionKSMY.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionKSMY.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Σειρές",
       "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionES.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionES.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionETS.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionETS.json",
       "isUnlocked": true
     }
   ],
@@ -301,19 +301,19 @@
     {
       "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionMPT.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionMPT.json",
       "isUnlocked": true
     },
     {
       "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
       "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionMPS.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionMPS.json",
       "isUnlocked": true
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",
       "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
-      "JSON": "https://med1altd.github.io/GreekMovies/basicVersionPYK.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionPYK.json",
       "isUnlocked": true
     }
   ],

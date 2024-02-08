@@ -89,6 +89,23 @@
       "liveContent": false,
       "liveDescription": false
     },
+        {
+      "Title": "ERT Kids",
+      "Image": "https://i.ibb.co/dcRvjrQ/ERTKIDS.png",
+      "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/manifest.mpd",
+      "LiveUrl": "https://programmatileorasis.gr/free/6/%CE%95%CE%A1%CE%A43",
+      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
+      "EndString": "</a><spa",
+      "Start": 44,
+      "End": 0,
+      "StartStringD": ">🔍</span>",
+      "EndStringD": "</span>",
+      "StartD": 10,
+      "EndD": 0,
+      "isUnlocked": true,
+      "liveContent": false,
+      "liveDescription": false
+    },
     {
       "Title": "MEGA",
       "Image": "https://i.postimg.cc/HLb0yrQs/mega.png",

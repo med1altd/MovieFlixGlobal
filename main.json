@@ -105,7 +105,23 @@
       "APP_ID_Unity": "5538795",
       "Banner_Id_Unity": "Banner_TV",
       "Interstitial_Id_Unity": "Interstitial_Android",
-      "Rewarded_Id_Unity": "Reward_Movies"
+      "Rewarded_Id_Unity": "Reward_Movies",
+      "TVDelayBannerAdMob": 240000,
+      "VideoDelayBannerAdMob": 240000,
+      "TVDelayBannerUnity": 30000,
+      "VideoDelayBannerUnity": 30000,
+      "TVDelayInterstitialAdMob": 240000,
+      "VideoDelayInterstitialAdMob": 240000,
+      "MoviesInfoDelayInterstitialAdMob": 240000,
+      "SeriesInfoDelayInterstitialAdMob": 240000,
+      "TVDelayInterstitialUnity": 30000,
+      "VideoDelayInterstitialUnity": 30000,
+      "MoviesInfoDelayInterstitialUnity": 30000,
+      "SeriesInfoDelayInterstitialUnity": 30000,
+      "MoviesInfoDelayRewardedAdMob": 240000,
+      "SeriesInfoDelayRewardedAdMob": 240000,
+      "MoviesInfoDelayRewardedUnity": 30000,
+      "SeriesInfoDelayRewardedUnity": 30000
     }
   ],
   "Rating": [

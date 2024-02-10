@@ -5,7 +5,7 @@
       "isWorking": true,
       "isTest": false,
       "showAds": false,
-      "showBannerAds": false,
+      "showBannerAds": true,
       "showInterstitialAds": true,
       "TVDelay": 240000,
       "VideoDelay": 240000,

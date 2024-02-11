@@ -42,6 +42,7 @@
       "AddContentFormUrl": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": true,
       "AdsType": "Unity",
+      "AdsTypes": "Admob, Unity",
       "TVDelayAdMob": 240000,
       "VideoDelayAdMob": 240000,
       "MoviesInfoDelayAdMob": 240000,

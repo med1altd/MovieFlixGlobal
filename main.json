@@ -118,10 +118,10 @@
       "VideoDelayInterstitialUnity": 240000,
       "MoviesInfoDelayInterstitialUnity": 240000,
       "SeriesInfoDelayInterstitialUnity": 240000,
-      "MoviesInfoDelayRewardedAdMob": 15000,
-      "SeriesInfoDelayRewardedAdMob": 15000,
-      "MoviesInfoDelayRewardedUnity": 15000,
-      "SeriesInfoDelayRewardedUnity": 15000
+      "MoviesInfoDelayRewardedAdMob": 5000,
+      "SeriesInfoDelayRewardedAdMob": 5000,
+      "MoviesInfoDelayRewardedUnity": 5000,
+      "SeriesInfoDelayRewardedUnity": 5000
     }
   ],
   "Rating": [

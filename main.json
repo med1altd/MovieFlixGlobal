@@ -115,20 +115,20 @@
       "Rewarded_Id_Unity": "Rewarded_Android",
       "TVDelayBannerAdMob": 120000,
       "VideoDelayBannerAdMob": 120000,
-      "TVDelayBannerUnity": 120000,
-      "VideoDelayBannerUnity": 120000,
+      "TVDelayBannerUnity": 60000,
+      "VideoDelayBannerUnity": 60000,
       "TVDelayInterstitialAdMob": 240000,
       "VideoDelayInterstitialAdMob": 240000,
       "MoviesInfoDelayInterstitialAdMob": 240000,
       "SeriesInfoDelayInterstitialAdMob": 240000,
-      "TVDelayInterstitialUnity": 240000,
-      "VideoDelayInterstitialUnity": 240000,
-      "MoviesInfoDelayInterstitialUnity": 240000,
-      "SeriesInfoDelayInterstitialUnity": 240000,
+      "TVDelayInterstitialUnity": 60000,
+      "VideoDelayInterstitialUnity": 60000,
+      "MoviesInfoDelayInterstitialUnity": 60000,
+      "SeriesInfoDelayInterstitialUnity": 60000,
       "MoviesInfoDelayRewardedAdMob": 5000,
       "SeriesInfoDelayRewardedAdMob": 5000,
-      "MoviesInfoDelayRewardedUnity": 5000,
-      "SeriesInfoDelayRewardedUnity": 5000
+      "MoviesInfoDelayRewardedUnity": 0,
+      "SeriesInfoDelayRewardedUnity": 0
     }
   ],
   "Rating": [

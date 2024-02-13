@@ -32,14 +32,6 @@
       "isUnlocked": true
     },
     {
-      "Fetch": "MediaFire",
-      "TMDB_ID": "733209",
-      "ImageMain": "https://image.tmdb.org/t/p/original/9fATXTd1PqZww3TM8SwmC1An5UM.jpg",
-      "Title": "Ο Άνθρωπος του Θεού",
-      "Video": "https://www.mediafire.com/file_premium/gqimxpacrxsheda/video/file",
-      "isUnlocked": true
-    },
-    {
       "Fetch": "Voe",
       "TMDB_ID": "698484",
       "ImageMain": "https://image.tmdb.org/t/p/original/o1sVOGFvmastUs6LApZWusSTuVu.jpg",

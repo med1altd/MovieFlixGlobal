@@ -13,7 +13,7 @@
       "SeriesInfoDelay": 240000,
       "MaxDailyAdRequests": 100,
       "isActivationRequired": true,
-      "promote": false,
+      "promote": true,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
       "promoteButtonTitle": "Download Now!",

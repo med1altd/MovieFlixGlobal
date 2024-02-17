@@ -44,7 +44,7 @@
       "AdsType": "Unity",
       "AdsTypes": "AdMob, Unity",
       "BannerAdsType": "Unity",
-      "InterstitialAdsType": "Unity",
+      "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "Unity",
       "TVDelayAdMob": 240000,
       "VideoDelayAdMob": 240000,

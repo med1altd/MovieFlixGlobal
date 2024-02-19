@@ -43,7 +43,7 @@
       "checkForUpdates": true,
       "AdsType": "Unity",
       "AdsTypes": "AdMob, Unity",
-      "BannerAdsType": "Unity",
+      "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "Unity",
       "TVDelayAdMob": 240000,
@@ -103,11 +103,11 @@
   "Ads": [
     {
       "APP_ID_AdMob": "ca-app-pub-4214237816210399~7407370620",
-      "Banner_Id_AdMob": "ca-app-pub-3940256099942544/6300978111",
+      "Banner_Id_AdMob": "ca-app-pub-4214237816210399/5428128449",
       "Banner_Id_AdMobReal": "ca-app-pub-4214237816210399/5428128449",
       "Interstitial_Id_AdMob": "ca-app-pub-4214237816210399/9774266248",
       "Interstitial_Id_AdMobReal": "ca-app-pub-4214237816210399/9774266248",
-      "Rewarded_Id_AdMob": "ca-app-pub-3940256099942544/5224354917",
+      "Rewarded_Id_AdMob": "ca-app-pub-4214237816210399/4713812571",
       "Rewarded_Id_AdMobReal": "ca-app-pub-4214237816210399/4713812571",
       "APP_ID_Unity": "5538795",
       "Banner_Id_Unity": "Banner_Android",
@@ -125,8 +125,8 @@
       "VideoDelayInterstitialUnity": 60000,
       "MoviesInfoDelayInterstitialUnity": 60000,
       "SeriesInfoDelayInterstitialUnity": 60000,
-      "MoviesInfoDelayRewardedAdMob": 5000,
-      "SeriesInfoDelayRewardedAdMob": 5000,
+      "MoviesInfoDelayRewardedAdMob": 60000,
+      "SeriesInfoDelayRewardedAdMob": 60000,
       "MoviesInfoDelayRewardedUnity": 0,
       "SeriesInfoDelayRewardedUnity": 0
     }

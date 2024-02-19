@@ -43,7 +43,7 @@
       "checkForUpdates": true,
       "AdsType": "Unity",
       "AdsTypes": "AdMob, Unity",
-      "BannerAdsType": "AdMob",
+      "BannerAdsType": "Unity",
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "Unity",
       "TVDelayAdMob": 240000,

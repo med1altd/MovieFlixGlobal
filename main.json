@@ -137,7 +137,7 @@
             {
               "Banner": 1,
               "Interstitial": 2,
-              "Rewarded":30
+              "Rewarded": 3
             }
           ],
           "Unity": [
@@ -155,20 +155,20 @@
             {
               "Banner": [
                 {
-                  "Interstitial": 0,
-                  "Rewarded": 0
+                  "Interstitial": 7,
+                  "Rewarded": 8
                 }
               ],
               "Interstitial": [
                 {
-                  "Banner": 0,
-                  "Rewarded": 0
+                  "Banner": 9,
+                  "Rewarded": 10
                 }
               ],
               "Rewarded": [
                 {
-                  "Banner": 0,
-                  "Interstitial": 0
+                  "Banner": 11,
+                  "Interstitial": 12
                 }
               ]
             }
@@ -177,20 +177,20 @@
             {
               "Banner": [
                 {
-                  "Interstitial": 0,
-                  "Rewarded": 0
+                  "Interstitial": 13,
+                  "Rewarded": 14
                 }
               ],
               "Interstitial": [
                 {
-                  "Banner": 0,
-                  "Rewarded": 0
+                  "Banner": 15,
+                  "Rewarded": 16
                 }
               ],
               "Rewarded": [
                 {
-                  "Banner": 0,
-                  "Interstitial": 0
+                  "Banner": 17,
+                  "Interstitial": 18
                 }
               ]
             }

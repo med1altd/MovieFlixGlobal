@@ -130,7 +130,25 @@
       "MoviesInfoDelayRewardedAdMob": 60000,
       "SeriesInfoDelayRewardedAdMob": 60000,
       "MoviesInfoDelayRewardedUnity": 0,
-      "SeriesInfoDelayRewardedUnity": 0
+      "SeriesInfoDelayRewardedUnity": 0,
+      "Pre-Delay": [
+        {
+          "AdMob": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ],
+          "Unity": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "Rating": [

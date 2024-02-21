@@ -148,6 +148,54 @@
             }
           ]
         }
+      ],
+      "Additional-Delay": [
+        {
+          "AdMob": [
+            {
+              "Banner": [
+                {
+                  "Interstitial": 0,
+                  "Rewarded": 0
+                }
+              ],
+              "Interstitial": [
+                {
+                  "Banner": 0,
+                  "Rewarded": 0
+                }
+              ],
+              "Rewarded": [
+                {
+                  "Banner": 0,
+                  "Interstitial": 0
+                }
+              ]
+            }
+          ],
+          "Unity": [
+            {
+              "Banner": [
+                {
+                  "Interstitial": 0,
+                  "Rewarded": 0
+                }
+              ],
+              "Interstitial": [
+                {
+                  "Banner": 0,
+                  "Rewarded": 0
+                }
+              ],
+              "Rewarded": [
+                {
+                  "Banner": 0,
+                  "Interstitial": 0
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],

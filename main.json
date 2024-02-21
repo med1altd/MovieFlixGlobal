@@ -135,16 +135,16 @@
         {
           "AdMob": [
             {
-              "Banner": 0,
-              "Interstitial": 0,
-              "Rewarded": 0
+              "Banner": 1,
+              "Interstitial": 2,
+              "Rewarded":30
             }
           ],
           "Unity": [
             {
-              "Banner": 0,
-              "Interstitial": 0,
-              "Rewarded": 0
+              "Banner": 4,
+              "Interstitial": 5,
+              "Rewarded": 6
             }
           ]
         }

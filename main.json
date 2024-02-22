@@ -48,6 +48,7 @@
       "BannerAdsType": "Unity",
       "InterstitialAdsType": "Unity",
       "RewardedAdsType": "Unity",
+      "DelayEveryAdUnit": true,
       "TVDelayAdMob": 240000,
       "VideoDelayAdMob": 240000,
       "MoviesInfoDelayAdMob": 240000,

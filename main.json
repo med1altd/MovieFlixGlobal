@@ -41,6 +41,8 @@
       "CodeExample": "greek_version_2020",
       "MoreContentOption": false,
       "AddContentOption": true,
+      "CalculateAndSendTimeSpentInActivity": true,
+      "CalculateCurentViewers": true,
       "AddContentFormUrl": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": true,
       "AdsType": "Unity",

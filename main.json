@@ -120,11 +120,11 @@
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
       "Rewarded_Id_Unity": "Rewarded_Android",
-      "TVDelayBannerAdMob": 60000,
-      "VideoDelayBannerAdMob": 180000,
+      "TVDelayBannerAdMob": 120000,
+      "VideoDelayBannerAdMob": 120000,
       "TVDelayBannerUnity": 60000,
       "VideoDelayBannerUnity": 60000,
-      "TVDelayInterstitialAdMob": 90000,
+      "TVDelayInterstitialAdMob": 300000,
       "VideoDelayInterstitialAdMob": 300000,
       "MoviesInfoDelayInterstitialAdMob": 300000,
       "SeriesInfoDelayInterstitialAdMob": 300000,
@@ -140,16 +140,16 @@
         {
           "AdMob": [
             {
-              "Banner": 100000,
-              "Interstitial": 200000,
-              "Rewarded": 300000
+              "Banner": 10000,
+              "Interstitial": 10000,
+              "Rewarded": 10000
             }
           ],
           "Unity": [
             {
-              "Banner": 400000,
-              "Interstitial": 500000,
-              "Rewarded": 600000
+              "Banner": 10000,
+              "Interstitial": 10000,
+              "Rewarded": 10000
             }
           ]
         }

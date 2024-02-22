@@ -43,7 +43,7 @@
       "MoreContentOption": false,
       "AddContentOption": true,
       "CalculateAndSendTimeSpentInActivity": false,
-      "CalculateCurentViewers": true,
+      "CalculateCurentViewers": false,
       "AddContentFormUrl": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": true,
       "AdsType": "Unity",

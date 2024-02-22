@@ -120,7 +120,7 @@
       "VideoDelayBannerAdMob": 180000,
       "TVDelayBannerUnity": 60000,
       "VideoDelayBannerUnity": 60000,
-      "TVDelayInterstitialAdMob": 120000,
+      "TVDelayInterstitialAdMob": 90000,
       "VideoDelayInterstitialAdMob": 300000,
       "MoviesInfoDelayInterstitialAdMob": 300000,
       "SeriesInfoDelayInterstitialAdMob": 300000,

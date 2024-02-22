@@ -49,6 +49,7 @@
       "InterstitialAdsType": "Unity",
       "RewardedAdsType": "Unity",
       "DelayEveryAdUnit": true,
+      "InitialDelay": "Activity",
       "TVDelayAdMob": 240000,
       "VideoDelayAdMob": 240000,
       "MoviesInfoDelayAdMob": 240000,
@@ -146,54 +147,6 @@
               "Banner": 400000,
               "Interstitial": 500000,
               "Rewarded": 600000
-            }
-          ]
-        }
-      ],
-      "Additional-Delay": [
-        {
-          "AdMob": [
-            {
-              "Banner": [
-                {
-                  "Interstitial": 700000,
-                  "Rewarded": 800000
-                }
-              ],
-              "Interstitial": [
-                {
-                  "Banner": 900000,
-                  "Rewarded": 1000000
-                }
-              ],
-              "Rewarded": [
-                {
-                  "Banner": 1100000,
-                  "Interstitial": 1200000
-                }
-              ]
-            }
-          ],
-          "Unity": [
-            {
-              "Banner": [
-                {
-                  "Interstitial": 1300000,
-                  "Rewarded": 1400000
-                }
-              ],
-              "Interstitial": [
-                {
-                  "Banner": 1500000,
-                  "Rewarded": 1600000
-                }
-              ],
-              "Rewarded": [
-                {
-                  "Banner": 1700000,
-                  "Interstitial": 1800000
-                }
-              ]
             }
           ]
         }

@@ -135,16 +135,16 @@
         {
           "AdMob": [
             {
-              "Banner": 10,
-              "Interstitial": 20,
-              "Rewarded": 30
+              "Banner": 100000,
+              "Interstitial": 200000,
+              "Rewarded": 300000
             }
           ],
           "Unity": [
             {
-              "Banner": 40,
-              "Interstitial": 50,
-              "Rewarded": 60
+              "Banner": 400000,
+              "Interstitial": 500000,
+              "Rewarded": 600000
             }
           ]
         }
@@ -155,20 +155,20 @@
             {
               "Banner": [
                 {
-                  "Interstitial": 7,
-                  "Rewarded": 8
+                  "Interstitial": 700000,
+                  "Rewarded": 800000
                 }
               ],
               "Interstitial": [
                 {
-                  "Banner": 9,
-                  "Rewarded": 10
+                  "Banner": 900000,
+                  "Rewarded": 1000000
                 }
               ],
               "Rewarded": [
                 {
-                  "Banner": 11,
-                  "Interstitial": 12
+                  "Banner": 1100000,
+                  "Interstitial": 1200000
                 }
               ]
             }
@@ -177,20 +177,20 @@
             {
               "Banner": [
                 {
-                  "Interstitial": 13,
-                  "Rewarded": 14
+                  "Interstitial": 1300000,
+                  "Rewarded": 1400000
                 }
               ],
               "Interstitial": [
                 {
-                  "Banner": 15,
-                  "Rewarded": 16
+                  "Banner": 1500000,
+                  "Rewarded": 1600000
                 }
               ],
               "Rewarded": [
                 {
-                  "Banner": 17,
-                  "Interstitial": 18
+                  "Banner": 1700000,
+                  "Interstitial": 1800000
                 }
               ]
             }

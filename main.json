@@ -46,7 +46,7 @@
       "CalculateCurentViewers": false,
       "AddContentFormUrl": "https://forms.gle/DJHinA68xKMTYaa78",
       "checkForUpdates": true,
-      "AdsType": "Unity",
+      "AdsTypes": "AdMob, Unity",
       "AdsTypes": "AdMob, Unity",
       "BannerAdsType": "Unity",
       "InterstitialAdsType": "AdMob",

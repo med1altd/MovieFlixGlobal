@@ -140,16 +140,16 @@
         {
           "AdMob": [
             {
-              "Banner": 10000,
-              "Interstitial": 10000,
-              "Rewarded": 10000
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
             }
           ],
           "Unity": [
             {
-              "Banner": 10000,
-              "Interstitial": 10000,
-              "Rewarded": 10000
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
             }
           ]
         }

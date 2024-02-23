@@ -51,6 +51,7 @@
       "BannerAdsType": "Unity",
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "Unity",
+      "AppOpenAdsType": "AdMob",
       "DelayEveryAdUnit": false,
       "InitialDelay": "Nothing",
       "TVDelayAdMob": 240000,

@@ -50,6 +50,7 @@
       "BannerAdsType": "AdMob",
       "InterstitialAdsType": "AdMob",
       "RewardedAdsType": "AdMob",
+      "RewardedInterstitialAdsType": "AdMob",
       "AppOpenAdsType": "AdMob",
       "DelayEveryAdUnit": false,
       "InitialDelay": "Nothing",

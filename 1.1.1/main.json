@@ -10,7 +10,7 @@
       "showAppOpenAds": true,
       "showRewardedInterstitialOnPlay": true,
       "bypassLockedContent": false,
-      "unlockOption": false,
+      "unlockOption": true,
       "TVDelay": 240000,
       "VideoDelay": 240000,
       "MoviesInfoDelay": 240000,

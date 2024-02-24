@@ -138,29 +138,47 @@
       "MoviesInfoDelayRewardedUnity": 0,
       "SeriesInfoDelayRewardedUnity": 0,
       "delayAppOpenMainActivity": 6000,
-"delayInterstitialRewardedMainActivity": 6000,
-"delayBannerLiveStreamingActivity": 6000,
-"delayInterstitialLiveStreamingActivity": 6000,
-"delayInterstitialRewardedMoviesInfoActivity": 6000,
-"delayRewardedMoviesInfoActivity": 6000,
-"delayInterstitialRewardedSeriesInfoActivity": 6000,
-"delayRewardedSeriesInfoActivity": 6000,
-"delayBannerVideoStreamingActivity": 6000,
-"delayInterstitialVideoStreamingActivity": 6000,
+      "delayInterstitialRewardedMainActivity": 6000,
+      "delayBannerLiveStreamingActivity": 6000,
+      "delayInterstitialLiveStreamingActivity": 6000,
+      "delayInterstitialRewardedMoviesInfoActivity": 6000,
+      "delayRewardedMoviesInfoActivity": 6000,
+      "delayInterstitialRewardedSeriesInfoActivity": 6000,
+      "delayRewardedSeriesInfoActivity": 6000,
+      "delayBannerVideoStreamingActivity": 6000,
+      "delayInterstitialVideoStreamingActivity": 6000,
       "Pre-Delay": [
         {
           "AdMob": [
             {
-              "Banner": 00000,
-              "Interstitial": 00000,
-              "Rewarded": 00000
+              "Banner": {
+                "value": "00000n",
+                "type": "Big Number"
+              },
+              "Interstitial": {
+                "value": "00000n",
+                "type": "Big Number"
+              },
+              "Rewarded": {
+                "value": "00000n",
+                "type": "Big Number"
+              }
             }
           ],
           "Unity": [
             {
-              "Banner": 00000,
-              "Interstitial": 00000,
-              "Rewarded": 00000
+              "Banner": {
+                "value": "00000n",
+                "type": "Big Number"
+              },
+              "Interstitial": {
+                "value": "00000n",
+                "type": "Big Number"
+              },
+              "Rewarded": {
+                "value": "00000n",
+                "type": "Big Number"
+              }
             }
           ]
         }

@@ -145,13 +145,13 @@
       "delayAppOpenMainActivity": 240000,
       "delayInterstitialRewardedMainActivity": 240000,
       "delayBannerLiveStreamingActivity": 90000,
-      "delayInterstitialLiveStreamingActivity": 60000,
+      "delayInterstitialLiveStreamingActivity": 240000,
       "delayInterstitialRewardedMoviesInfoActivity": 60000,
       "delayRewardedMoviesInfoActivity": 60000,
       "delayInterstitialRewardedSeriesInfoActivity": 60000,
       "delayRewardedSeriesInfoActivity": 60000,
       "delayBannerVideoStreamingActivity": 90000,
-      "delayInterstitialVideoStreamingActivity": 60000,
+      "delayInterstitialVideoStreamingActivity": 240000,
       "Pre-Delay": [
         {
           "AdMob": [

@@ -20,7 +20,6 @@
       "promote": false,
       "promoteTitle": "MovieFlix Update Available",
       "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
-    
       "promoteButtonTitle": "Download Now!",
       "promoteUrl": "https://www.filmxy.vip/",
       "promoteNotes": "*Keep in mind that...",
@@ -154,34 +153,16 @@
         {
           "AdMob": [
             {
-              "Banner": {
-                "value": "00000n",
-                "type": "Big Number"
-              },
-              "Interstitial": {
-                "value": "00000n",
-                "type": "Big Number"
-              },
-              "Rewarded": {
-                "value": "00000n",
-                "type": "Big Number"
-              }
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
             }
           ],
           "Unity": [
             {
-              "Banner": {
-                "value": "00000n",
-                "type": "Big Number"
-              },
-              "Interstitial": {
-                "value": "00000n",
-                "type": "Big Number"
-              },
-              "Rewarded": {
-                "value": "00000n",
-                "type": "Big Number"
-              }
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
             }
           ]
         }

@@ -124,6 +124,7 @@
       "Banner_Id_Unity": "Banner_Android",
       "Interstitial_Id_Unity": "Interstitial_Android",
       "Rewarded_Id_Unity": "Rewarded_Android",
+      "RewardedInterstitial_Id_Unity": "NO_ID",
       "TVDelayBannerAdMob": 120000,
       "VideoDelayBannerAdMob": 120000,
       "TVDelayBannerUnity": 60000,

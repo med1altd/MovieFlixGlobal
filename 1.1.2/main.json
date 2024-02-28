@@ -7,7 +7,7 @@
       "showAds": false,
       "showBannerAds": true,
       "showInterstitialAds": true,
-      "showRewardedInterstitialAds": false,
+      "showRewardedInterstitialAds": true,
       "showAppOpenAds": false,
       "showRewardedInterstitialOnPlay": false,
       "bypassLockedContent": false,

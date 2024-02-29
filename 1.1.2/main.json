@@ -9,7 +9,6 @@
       "showInterstitialAds": true,
       "showRewardedInterstitialAds": true,
       "showAppOpenAds": true,
-      "showRewardedInterstitialOnPlay": false,
       "enabledCastOption": true,
       "enabledServerAdRequestsCheck": true,
       "bypassLockedContent": false,

@@ -10,7 +10,7 @@
       "showRewardedInterstitialAds": true,
       "showAppOpenAds": true,
       "enabledCastOption": true,
-      "enabledServerAdRequestsCheck": false,
+      "enabledServerAdRequestsCheck": true,
       "bypassLockedContent": false,
       "unlockOption": false,
       "TVDelay": 240000,

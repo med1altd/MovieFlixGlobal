@@ -7,7 +7,7 @@
       "showAds": false,
       "showBannerAds": true,
       "showInterstitialAds": true,
-      "showRewardedInterstitialAds": true,
+      "showRewardedInterstitialAds": false,
       "showAppOpenAds": true,
       "enabledCastOption": true,
       "enabledServerAdRequestsCheck": true,

@@ -11,7 +11,8 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
-      "Video": "https://telmacosa.s.llnwi.net/osY/ERT/default/index.mpd",
+      "VideoOld": "https://telmacosa.s.llnwi.net/osY/ERT/default/index.mpd",
+      "Video": "https://storage.googleapis.com/greektv/newapp1_1.m3u8"
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "EndString": "</a><spa",

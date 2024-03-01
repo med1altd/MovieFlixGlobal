@@ -69,7 +69,7 @@
       "MessageText": "PATAGESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSPATAGES",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",
-      "MessageAdditionalWay": "Image",
+      "MessageAdditionalWay": "",
       "MessageImageUrl": "https://cdn.freebiesupply.com/logos/large/2x/cast-icon-chromecast-logo-svg-vector.svg"
     }
   ],

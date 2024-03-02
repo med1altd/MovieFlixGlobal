@@ -1,7 +1,7 @@
 {
   "Status": [
     {
-      "isLive": true, 
+      "isLive": false, 
       "isWorking": true,
       "isTest": false,
       "showAds": false,
@@ -30,7 +30,7 @@
       "promoteActivities": "TV, Movies, Series",
       "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
       "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
-      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1.2) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1.3) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
       "contactName": "Med1a Ltd",
       "contactEmail": "medialtdcontact@gmail.com",
       "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
@@ -189,48 +189,48 @@
     {
       "TV": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionTV.json"
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionTV.json"
         }
       ],
       "Movies": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKTMY.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionKTMY.json",
           "Category": 0
         },
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionET.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionET.json",
           "Category": 1
         },
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionEPT.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionEPT.json",
           "Category": 2
         }
       ],
       "Series": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKSMY.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionKSMY.json",
           "Category": 0
         },
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionES.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionES.json",
           "Category": 1
         },
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionETS.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionETS.json",
           "Category": 2
         }
       ],
       "Kids": [
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPT.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionMPT.json",
           "Category": 0
         },
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPS.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionMPS.json",
           "Category": 1
         },
         {
-          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionPYK.json",
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionPYK.json",
           "Category": 2
         }
       ]
@@ -245,48 +245,48 @@
         {
           "TV": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionTV.json"
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionTV.json"
             }
           ],
           "Movies": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKTMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionKTMY.json",
               "Category": 0
             },
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionET.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionET.json",
               "Category": 1
             },
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionEPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionEPT.json",
               "Category": 2
             }
           ],
           "Series": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKSMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionKSMY.json",
               "Category": 0
             },
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionES.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionES.json",
               "Category": 1
             },
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionETS.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionETS.json",
               "Category": 2
             }
           ],
           "Kids": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionMPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionMPT.json",
               "Category": 0
             },
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionMPS.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionMPS.json",
               "Category": 1
             },
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionPYK.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionPYK.json",
               "Category": 2
             }
           ]
@@ -307,24 +307,24 @@
         {
           "TV": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionTV.json"
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionTV.json"
             }
           ],
           "Movies": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKTMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionKTMY.json",
               "Category": 0
             }
           ],
           "Series": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKSMY.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionKSMY.json",
               "Category": 0
             }
           ],
           "Kids": [
             {
-              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionMPT.json",
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/greekVersionMPT.json",
               "Category": 0
             }
           ]
@@ -340,19 +340,19 @@
     {
       "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
       "Image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKTMY.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionKTMY.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionET.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionET.json",
       "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
       "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionEPT.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionEPT.json",
       "isUnlocked": false
     }
   ],
@@ -360,19 +360,19 @@
     {
       "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
       "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKSMY.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionKSMY.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Σειρές",
       "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionES.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionES.json",
       "isUnlocked": true
     },
     {
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionETS.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionETS.json",
       "isUnlocked": true
     }
   ],
@@ -380,19 +380,19 @@
     {
       "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
       "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPT.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionMPT.json",
       "isUnlocked": true
     },
     {
       "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
       "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPS.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionMPS.json",
       "isUnlocked": true
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",
       "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
-      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionPYK.json",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.3/basicVersionPYK.json",
       "isUnlocked": true
     }
   ],

@@ -1,0 +1,30 @@
+{
+          "Main": [
+    {
+      "Live": true,
+      "Video": "",
+        "Fetch": "MediaFire"
+    }
+  ],
+    "Movies": [
+    {
+      "Title": "One Ranger",
+      "ImageBack": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/05/thomas-jane-as-ranger-alex-tyree-in-one-ranger.jpg",
+      "ImageMain": "https://m.media-amazon.com/images/M/MV5BYTU3ZDJjNmEtZDgxNi00NzA4LWI0MWUtMWRjMDFlZTdiZTM0XkEyXkFqcGdeQXVyNjE2MzI5ODM@._V1_.jpg",
+      "Video": "https://www.mediafire.com/file_premium/1c2xdcokvb9d4fh/video/file",
+      "Description": "A Texas Ranger is recruited by British Intelligence to track down a dangerous terrorist and stop him from attacking London.",
+      "Year": 2023,
+      "Genre": "Δράση, Θρίλερ",
+      "Duration": "01 ωρ. 35 λεπ.",
+      "isUnlocked": true,
+      "fetchVideo": true,
+      "beforeEnd": "5",
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0,
+      "Fetch": "MediaFire"
+    }
+  ]
+}

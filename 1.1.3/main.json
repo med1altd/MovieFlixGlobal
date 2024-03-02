@@ -1,0 +1,430 @@
+{
+  "Status": [
+    {
+      "isLive": true, 
+      "isWorking": true,
+      "isTest": false,
+      "showAds": false,
+      "showBannerAds": false,
+      "showInterstitialAds": true,
+      "showRewardedInterstitialAds": false,
+      "showAppOpenAds": false,
+      "enabledCastOption": true,
+      "enabledServerAdRequestsCheck": true,
+      "bypassLockedContent": false,
+      "unlockOption": false,
+      "TVDelay": 240000,
+      "VideoDelay": 240000,
+      "MoviesInfoDelay": 240000,
+      "SeriesInfoDelay": 240000,
+      "MaxDailyAdRequests": 100,
+      "isActivationRequired": true,
+      "promote": false,
+      "promoteTitle": "MovieFlix Update Available",
+      "promoteImageUrl": "https://storage.googleapis.com/pr-newsroom-wp/1/2022/02/SNIK1-1.png",
+      "promoteButtonTitle": "Download Now!",
+      "promoteUrl": "https://www.filmxy.vip/",
+      "promoteNotes": "*Keep in mind that...",
+      "promoteMessage": "",
+      "promoteMethod": "OnPlay",
+      "promoteActivities": "TV, Movies, Series",
+      "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
+      "MessageUpdate": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
+      "Message": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1.2) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "contactName": "Med1a Ltd",
+      "contactEmail": "medialtdcontact@gmail.com",
+      "contactSubject": "Επικοινωνία σχετικά με την εφαρμογή \"MovieFlix\"",
+      "contactMessage": " Αγαπητή ομάδα προγραμματιστών της εφαρμογής \"MovieFlix\",\nπήρα την απόφαση να σας αποστείλλω το συγκεκριμένο μήνυμα προκειμένου να",
+      "PrivacyPolicyUrl": "https://sites.google.com/view/movieflixgrapp/privacy-policy",
+      "DMCAUrl": "https://forms.gle/nhBEBGBH9H1JKNKh6",
+      "MoreImageUrl": "https://i.ibb.co/nRkWFQG/MORE.png",
+      "MoreImageUrlHorizontal": "https://i.ibb.co/9q8MHJG/MORE-HORIZONTAL.png",
+      "NoImageUrl": "https://i.ibb.co/9yLBtnr/NO-IMAGE.png",
+      "DMCAImageUrl": "https://i.ibb.co/6wdZZ5x/Untitled-3.png",
+      "CodeExample": "greek_version_2020",
+      "MoreContentOption": false,
+      "AddContentOption": true,
+      "CalculateAndSendTimeSpentInActivity": true,
+      "CalculateCurentViewers": true,
+      "AddContentFormUrl": "https://forms.gle/DJHinA68xKMTYaa78",
+      "checkForUpdates": true,
+      "AdsType": "AdMob",
+      "BannerAdsType": "AdMob",
+      "InterstitialAdsType": "AdMob",
+      "RewardedAdsType": "AdMob",
+      "RewardedInterstitialAdsType": "AdMob",
+      "AppOpenAdsType": "AdMob",
+      "DelayEveryAdUnit": false,
+      "InitialDelay": "Nothing",
+      "TVDelayAdMob": 240000,
+      "VideoDelayAdMob": 240000,
+      "MoviesInfoDelayAdMob": 240000,
+      "SeriesInfoDelayAdMob": 240000,
+      "TVDelayUnity": 10000,
+      "VideoDelayUnity": 10000,
+      "MoviesInfoDelayUnity": 10000,
+      "SeriesInfoDelayUnity": 10000,
+      "introductionEnabled": true,
+      "MessageAlert": false,
+      "MessageText": "PATAGESSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSPATAGES",
+      "MessageButtonText": "INSTALL",
+      "MessageButtonDestination": "https://google.com",
+      "MessageAdditionalWay": "",
+      "MessageImageUrl": "https://cdn.freebiesupply.com/logos/large/2x/cast-icon-chromecast-logo-svg-vector.svg"
+    }
+  ],
+  "Introduction": [
+    {
+      "Image": "https://i.ibb.co/X8F9YfY/TE1.png",
+      "ImageGreece": "https://i.ibb.co/FJwnYhY/T1.png"
+    },
+    {
+      "Image": "https://i.ibb.co/SmJybrj/TE2.png",
+      "ImageGreece": "https://i.ibb.co/CKNCcRy/T2.png"
+    },
+    {
+      "Image": "https://i.ibb.co/hCtPWhw/TE3.png",
+      "ImageGreece": "https://i.ibb.co/9wk0w7m/T3.png"
+    },
+    {
+      "Image": "https://i.ibb.co/F3zYKRC/TE4.png",
+      "ImageGreece": "https://i.ibb.co/JcxqZTK/T4.png"
+    },
+    {
+      "Image": "https://i.ibb.co/kMZL913/TE5.png",
+      "ImageGreece": "https://i.ibb.co/Hr3Smwk/T5.png"
+    },
+    {
+      "Image": "https://i.ibb.co/MDmsHyX/TE6.png",
+      "ImageGreece": "https://i.ibb.co/JzpFNc5/T6.png"
+    },
+    {
+      "Image": "https://i.ibb.co/bQNqHW6/TE-T7.png",
+      "ImageGreece": "https://i.ibb.co/bQNqHW6/TE-T7.png"
+    },
+    {
+      "Image": "https://i.ibb.co/F4WbfJV/TE8.png",
+      "ImageGreece": "https://i.ibb.co/bK4Jm5f/T8.png"
+    }
+  ],
+  "Pre-Unlocked": [
+    {
+      "Code": "greek_version_2023"
+    }
+  ],
+  "Ads": [
+    {
+      "APP_ID_AdMob": "ca-app-pub-5239046398044469~3698046128",
+      "Banner_Id_AdMob": "ca-app-pub-5239046398044469/7682373227",
+      "Banner_Id_AdMobReal": "ca-app-pub-5239046398044469/7682373227",
+      "Interstitial_Id_AdMob": "ca-app-pub-5239046398044469/5359801527",
+      "Interstitial_Id_AdMobReal": "ca-app-pub-5239046398044469/5359801527",
+      "Rewarded_Id_AdMob": "ca-app-pub-5239046398044469/6681186707",
+      "Rewarded_Id_AdMobReal": "ca-app-pub-5239046398044469/6681186707",
+      "AppOpen_Id_AdMob": "ca-app-pub-5239046398044469/3999183046",
+      "RewardedInterstitial_Id_AdMob": "ca-app-pub-5239046398044469/2384964451",
+      "APP_ID_Unity": "5538795",
+      "Banner_Id_Unity": "Banner_Android",
+      "Interstitial_Id_Unity": "Interstitial_Android",
+      "Rewarded_Id_Unity": "Rewarded_Android",
+      "AppOpen_Id_Unity": "NO_ID",
+      "RewardedInterstitial_Id_Unity": "NO_ID",
+      "TVDelayBannerAdMob": 10000,
+      "VideoDelayBannerAdMob": 10000,
+      "TVDelayBannerUnity": 10000,
+      "VideoDelayBannerUnity": 10000,
+      "TVDelayInterstitialAdMob": 10000,
+      "VideoDelayInterstitialAdMob": 10000,
+      "MoviesInfoDelayInterstitialAdMob": 10000,
+      "SeriesInfoDelayInterstitialAdMob": 10000,
+      "TVDelayInterstitialUnity": 10000,
+      "VideoDelayInterstitialUnity": 10000,
+      "MoviesInfoDelayInterstitialUnity": 10000,
+      "SeriesInfoDelayInterstitialUnity": 10000,
+      "MoviesInfoDelayRewardedAdMob": 10000,
+      "SeriesInfoDelayRewardedAdMob": 10000,
+      "MoviesInfoDelayRewardedUnity": 0,
+      "SeriesInfoDelayRewardedUnity": 0,
+      "delayAppOpenMainActivity": 600000,
+      "delayInterstitialRewardedMainActivity": 1200000,
+      "delayBannerLiveStreamingActivity": 90000,
+      "delayInterstitialLiveStreamingActivity": 120000,
+      "delayInterstitialRewardedMoviesInfoActivity": 1200000,
+      "delayRewardedMoviesInfoActivity": 30000,
+      "delayInterstitialRewardedSeriesInfoActivity": 1200000,
+      "delayRewardedSeriesInfoActivity": 30000,
+      "delayBannerVideoStreamingActivity": 90000,
+      "delayInterstitialVideoStreamingActivity": 120000,
+      "Pre-Delay": [
+        {
+          "AdMob": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ],
+          "Unity": [
+            {
+              "Banner": 0,
+              "Interstitial": 0,
+              "Rewarded": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Rating": [
+    {
+      "isRatingVisible": true,
+      "RatingUrl": "https://play.google.com/store/apps/details?id=com.med1a.movieflix",
+      "isInfoVisible": true,
+      "InfoText": "Αποποίηση Ευθυνών για την Εφαρμογή:\nΗ παρούσα αποποίηση ευθυνών αναφέρεται στη χρήση και τη λειτουργία της εφαρμογής MovieFlix, εντός των πλαισίων της Ευρωπαϊκής Οδηγίας 2000/31/ΕΚ, σύμφωνα με το άρθρο 15 της εν λόγω Οδηγίας.\nΣύμφωνα με την Ευρωπαϊκή Οδηγία 2000/31/ΕΚ, άρθρο 15, η εταιρεία φιλοξενίας δεν φέρει γενική υποχρέωση να παρακολουθεί τα περιεχόμενα που μεταφέρονται ή αποθηκεύονται μέσω της εφαρμογής. Συνεπώς, επισημαίνουμε ότι η ευθύνη για το περιεχόμενο που δημιουργούν ή μεταφέρουν οι χρήστες ανήκει αποκλειστικά σε αυτούς τους χρήστες.\n\nΟι χρήστες της εφαρμογής MovieFlix είναι υπεύθυνοι για την τήρηση όλων των ισχυόντων νόμων και κανονισμών σχετικά με το περιεχόμενο που προσθέτουν ή μοιράζονται. Η εταιρεία διατηρεί το δικαίωμα, αλλά όχι την υποχρέωση, να παρακολουθεί, να φιλτράρει, να επεξεργάζεται ή να αφαιρεί περιεχόμενο που θεωρεί ότι παραβιάζει τους όρους χρήσης ή τις νομικές απαιτήσεις.\n\nΠροτού οι χρήστες προβούν σε οποιαδήποτε νομική διαδικασία, υποχρεούνται να επικοινωνήσουν με τους προγραμματιστές της εφαρμογής MovieFlix. Σε περίπτωση παράκαμψης του παραπάνω όρου της εφαρμογής, η εταιρεία προγραμματιστών μας θα επιφυλαχθεί του δικαιώματος να κινηθεί νομικά εναντίον οποιουδήποτε παραβιάζει τους όρους χρήσης.\n\nΕπιπλέον, υπάρχει περιεχόμενο εντός της εφαρμογής που μπορεί να ξεκλειδωθεί από τους χρήστες με την εισαγωγή ενός μοναδικού κωδικού. Όσοι χρήστες επιθυμούν να δημιουργήσουν λίστα με ενσωματωμένο περιεχόμενο (Τηλεοπτικά Κανάλια, Ταινίες & Σειρές) και να το μοιραστούν μαζί με άλλους χρήστες, έχουν την επιλογή να αποκτήσουν από την ομάδα προγραμματιστών μας έναν ξεχωριστό κωδικό περιεχομένου. Η εταιρεία δεν φέρει καμία ευθύνη για το υλικό αυτό, και σε περίπτωση επιθυμίας διαγραφής ολόκληρου ή τμήματος του συγκεκριμένου περιεχομένου συνίσταται η υποβολή της ειδικής φόρμας DMCA που βρίσκεται στο κάτω μέρος της συγκεκριμένης σελίδας.",
+      "isSubscriptionVisible": false,
+      "SubmissionUrl": "https://forms.gle/7tpqfUAkb8RF5Xvv5"
+    }
+  ],
+  "Standard": [
+    {
+      "TV": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionTV.json"
+        }
+      ],
+      "Movies": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKTMY.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionET.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionEPT.json",
+          "Category": 2
+        }
+      ],
+      "Series": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKSMY.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionES.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionETS.json",
+          "Category": 2
+        }
+      ],
+      "Kids": [
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPT.json",
+          "Category": 0
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPS.json",
+          "Category": 1
+        },
+        {
+          "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionPYK.json",
+          "Category": 2
+        }
+      ]
+    }
+  ],
+  "Access": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKTMY.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionET.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionEPT.json",
+              "Category": 2
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKSMY.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionES.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionETS.json",
+              "Category": 2
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionMPT.json",
+              "Category": 0
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionMPS.json",
+              "Category": 1
+            },
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionPYK.json",
+              "Category": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "AccessTV": [
+    {
+      "Code": "greek_version_2023",
+      "Active": false,
+      "Valid": true,
+      "JSON_Urls": [
+        {
+          "TV": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionTV.json"
+            }
+          ],
+          "Movies": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKTMY.json",
+              "Category": 0
+            }
+          ],
+          "Series": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionKSMY.json",
+              "Category": 0
+            }
+          ],
+          "Kids": [
+            {
+              "Url": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/greekVersionMPT.json",
+              "Category": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Code": "1367222023",
+      "Active": true
+    }
+  ],
+  "Movies": [
+    {
+      "Title": "Ξένες Ταινίες \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKTMY.json",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
+      "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionET.json",
+      "isUnlocked": false
+    },
+    {
+      "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
+      "Image": "https://www.flowmagazine.gr/wp-content/uploads/o_palios_ellinikos_kinimatografos_featured.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionEPT.json",
+      "isUnlocked": false
+    }
+  ],
+  "Series": [
+    {
+      "Title": "Ξένες Σειρές \n (Με Ελληνικούς Υπότιτλους)",
+      "Image": "https://offloadmedia.feverup.com/secretldn.com/wp-content/uploads/2020/03/18074959/72354623_743029929493734_4704406170316788179_n-1024x912.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionKSMY.json",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Σειρές",
+      "Image": "https://youfly.com/wp-content/uploads/2022/06/ellinikes-seires-2022-2023-1.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionES.json",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Ελληνικές Τηλεοπτικές Σειρές",
+      "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionETS.json",
+      "isUnlocked": true
+    }
+  ],
+  "Kids": [
+    {
+      "Title": "Μεταγλωττισμένες Παιδικές Ταινίες",
+      "Image": "https://i.pinimg.com/736x/17/98/f0/1798f0e79d761c7d2b3b169e8f36d4cc.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPT.json",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
+      "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionMPS.json",
+      "isUnlocked": true
+    },
+    {
+      "Title": "Παιδικά YouTube Κανάλια",
+      "Image": "https://media1.popsugar-assets.com/files/thumbor/137KqO7Jfs_zQ2GGiAHgLUqAHkU/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2021/05/26/739/n/24155406/6f24e5c65e5331bb_download_1_/i/CoComelon.jpeg",
+      "JSON": "https://med1altd.github.io/MovieFlixGlobal/1.1.2/basicVersionPYK.json",
+      "isUnlocked": true
+    }
+  ],
+  "Fetch": [
+    {
+      "Title": "MediaFire",
+      "beforeEnd": 5,
+      "Type": "media",
+      "StartString": "https://download",
+      "EndString": "\"",
+      "Start": 0,
+      "End": 0
+    },
+    {
+      "Title": "Voe",
+      "beforeEnd": 0,
+      "Type": "m3u8",
+      "StartString": "'hls': '",
+      "EndString": "',",
+      "Start": 8,
+      "End": 0
+    }
+  ],
+  "API": [
+    {
+      "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequests",
+      "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?Type="
+    }
+  ],
+  "jsonArrayAdditionalWebViewCode": [
+    {
+      "VidHide": "javascript:(function(){var playButton = document.querySelector('.jw-icon.jw-icon-display');if (playButton) {playButton.click();}})()"
+    }
+  ]
+}

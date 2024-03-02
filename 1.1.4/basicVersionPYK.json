@@ -1,0 +1,17 @@
+{
+  "Main": [
+    {
+      "Live": true,
+      "Video": "",
+      "Fetch": "MediaFire"
+    }
+  ],
+  "YouTube Channels": [
+    {
+      "Title": "Ελληνικά Παιδικά Τραγούδια",
+      "Image": "https://yt3.ggpht.com/ytc/AMLnZu9AAvPvAi3i8tHps-DSsYwhfLV7mzJTi5u3GcV0=s900-c-k-c0x00ffffff-no-rj",
+      "Url": "https://www.youtube.com/@paidikatragoudia",
+      "isUnlocked": true
+    }
+  ]
+}

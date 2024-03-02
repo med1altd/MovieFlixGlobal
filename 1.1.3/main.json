@@ -420,7 +420,7 @@
     {
       "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequests",
       "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?Type=",
-      "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdMatchedReques?Type="
+      "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdMatchedRequests?Type="
     }
   ],
   "jsonArrayAdditionalWebViewCode": [

@@ -418,8 +418,8 @@
   ],
   "API": [
     {
-      "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdRequests",
-      "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?Type="
+      "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequests",
+      "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?Type=Banner"
     }
   ]
 }

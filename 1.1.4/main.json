@@ -420,7 +420,8 @@
     {
       "requestAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/requestAdMobRequests",
       "updateAdMobRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdRequests?Type=",
-      "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdMatchedRequests?Type="
+      "updateAdMobMatchedRequestsAPIUrl": "https://movieflixgr.vercel.app/api/updateAdMatchedRequests?Type=",
+      "sendTimeSpentAPIUrl": "https://greekmovies.netlify.app/kosmos_test.html"
     }
   ],
   "jsonArrayAdditionalWebViewCode": [

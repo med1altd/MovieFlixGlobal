@@ -1,8 +1,8 @@
 {
   "Status": [
     {
-      "isLive": false, 
-      "isWorking": true,
+      "isLive": true, 
+      "isWorking": false,
       "isTest": false,
       "showAds": false,
       "showBannerAds": false,

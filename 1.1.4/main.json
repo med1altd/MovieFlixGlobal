@@ -6,7 +6,7 @@
       "isTest": false,
       "showAds": false,
       "showBannerAds": false,
-      "showInterstitialAds": false,
+      "showInterstitialAds": true,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
       "enabledCastOption": true,

@@ -1,12 +1,12 @@
 {
   "Status": [
     {
-      "isLive": false, 
+      "isLive": true, 
       "isWorking": true,
       "isTest": false,
       "showAds": false,
       "showBannerAds": false,
-      "showInterstitialAds": false,
+      "showInterstitialAds": false, 
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
       "enabledCastOption": true,

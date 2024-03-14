@@ -241,23 +241,6 @@
       "isUnlocked": true,
       "liveContent": true,
       "liveDescription": true
-    },
-        {
-      "Title": "Easter Egg",
-      "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Blue_question_mark_icon.svg/2048px-Blue_question_mark_icon.svg.png",
-      "Video": "https://cdn.wholive.pro:8089/hls/BfDKp6xQFX5/index.m3u8?st=_dbERYjy8FXpHNnIyIqUAQ&e=1710452130",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false
     }
   ]
 }

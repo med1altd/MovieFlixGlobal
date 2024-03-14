@@ -1,0 +1,20 @@
+.background {
+  background: center no-repeat url(https://lh6.googleusercontent.com/5LI5uDjsdt-SoOnVW2LEZ9m-qrhdXSZpc0sRj47yzK-dueXyOtvesAhLIkKgisPQsPV6oiXoigqXqVcd23P_Myk-hyDpVYJG5T_i40GmkdkJS4GyhnIaVCqPs9gSuSBJGg=w1280);
+}
+
+.logo {
+  background-image: url(https://sites.google.com/view/movieflixgrapp/home?authuser=0);
+}
+
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+.splash {
+  background-image: url(https://sites.google.com/view/movieflixgrapp/home?authuser=0);
+}
+
+.watermark {
+  background-image: url(https://sites.google.com/view/movieflixgrapp/home?authuser=0);
+  background-size: 57px 57px;
+}

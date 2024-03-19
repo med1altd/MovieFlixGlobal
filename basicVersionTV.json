@@ -89,7 +89,7 @@
       "liveContent": false,
       "liveDescription": false
     },
-        {
+    {
       "Title": "ERT Kids",
       "Image": "https://i.ibb.co/dcRvjrQ/ERTKIDS.png",
       "Video": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/manifest.mpd",
@@ -127,10 +127,10 @@
       "Title": "ANT1",
       "Image": "https://iili.io/HviqlO7.png",
       "Video": "https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_3.m3u8",
-      "LiveUrl": "https://programmatileorasis.gr/free/2/ANT1",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
+      "LiveUrl": "https://www.antenna.gr/tvguide",
+      "StartString": "b_446432",
+      "EndString": "</a><p",
+      "Start": 172,
       "End": 0,
       "StartStringD": ">🔍</span>",
       "EndStringD": "</span>",
@@ -138,7 +138,7 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": false
     },
     {
       "Title": "Makedonia TV",

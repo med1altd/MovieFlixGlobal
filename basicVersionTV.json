@@ -244,7 +244,7 @@
     },
     {
       "Title": "Action24",
-      "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
+      "Image": "https://i.ibb.co/CJWcxCs/Action24.png",
       "Video": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -261,7 +261,7 @@
     },
     {
       "Title": "THESSALIA TV",
-      "Image": "https://i.ibb.co/CJWcxCs/Action24.png",
+      "Image": "https://i.ibb.co/K7FMzZq/Thessalia-TV.png",
       "Video": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/thessaliatv.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",

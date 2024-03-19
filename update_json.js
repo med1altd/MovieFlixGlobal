@@ -15,5 +15,5 @@ function updateJSON() {
 // Call updateJSON function initially
 updateJSON();
 
-// Call updateJSON function every 5 minutes (300,000 milliseconds)
-setInterval(updateJSON, 300000); 
+// Call updateJSON function every 1 minute (60,000 milliseconds)
+setInterval(updateJSON, 60000); 

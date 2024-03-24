@@ -1,7 +1,7 @@
 {
   "Status": [
     {
-      "isLive": true,
+      "isLive": false,
       "isWorking": true,
       "isTest": false,
       "showAds": false,
@@ -28,7 +28,7 @@
       "promoteMessage": "",
       "promoteMethod": "OnPlay",
       "promoteActivities": "TV, Movies, Series",
-      "MessageOld": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.1.9) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
+      "MessageOld": "Νέα Έκδοση διαθέσιμη!\nΠαρακαλούμε πολύ εγκαταστήστε την τελευταία έκδοση (v.1.2.0) της εφαρμογής \"MovieFlix: Live TV & Movies\" μέσω του Google Play Store, προκειμένου να συνεχίσετε να απολαμβάνετε πλούσιο περιεχόμενο...",
       "MessageNewApp": "Νέα Κυκλοφορία!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΗ εφαρμογή θα ενεργοποιηθεί στις 01/02/2024\nΜείνετε συντονισμένοι!",
       "Message": "Νέα Ενημέρωση!\nΚαλώς ορίσατε στην εφαρμογή μας...\nΤο περιεχόμενο θα γίνει σύντομα διαθέσιμο.",
       "contactName": "Med1a Ltd",

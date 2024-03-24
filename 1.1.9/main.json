@@ -11,7 +11,7 @@
       "showAppOpenAds": false,
       "enabledCastOption": true,
       "enabledServerAdRequestsCheck": true,
-      "bypassLockedContent": false,
+      "bypassLockedContent": true,
       "unlockOption": false,
       "TVDelay": 240000,
       "VideoDelay": 240000,

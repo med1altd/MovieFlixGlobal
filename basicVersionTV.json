@@ -9,24 +9,6 @@
   ],
   "TV": [
     {
-      "Title": "Cosmote Sports 1",
-      "Image": "https://www.cosmotetv.gr/portal/documents/148154061/148154784/111095123/2a126328-4f9a-a525-6b41-867bb65b8865?version=1.0&t=1680276186977",
-      "VideoOld": "https://a52.azplay.me/hls/streama221652/index.m3u8?cst=81aa4115afa22116e5dbd9a5d4e810e0",
-      "Video": "https://talkstream.pro/hls/kU7DslmVvZTB/index.m3u8?st=rCdZ7dktcJeOnpFrX23PAQ&e=1712178179",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false
-    },
-    {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://telmacosa.s.llnwi.net/osY/ERT/default/index.mpd",

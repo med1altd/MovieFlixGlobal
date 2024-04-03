@@ -27,23 +27,6 @@
       "liveDescription": false
     },
     {
-      "Title": "Cosmote Sports 2",
-      "Image": "https://www.cosmotetv.gr/portal/documents/148154061/148157887/111095087/793bdc44-3c58-dad1-8605-f24c98213f75?version=1.0&t=1680276315739",
-      "Video": "https://a49.azplay.me/hls/streama221328/index.m3u8?cst=19722b0a3264ddb61375851f0c30cb94",
-      "LiveUrl": "https://programmatileorasis.gr/free/80/%CE%92%CE%9F%CE%A5%CE%9B%CE%97",
-      "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
-      "EndString": "</a><spa",
-      "Start": 44,
-      "End": 0,
-      "StartStringD": ">🔍</span>",
-      "EndStringD": "</span>",
-      "StartD": 10,
-      "EndD": 0,
-      "isUnlocked": true,
-      "liveContent": false,
-      "liveDescription": false
-    },
-    {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png",
       "Video": "https://telmacosa.s.llnwi.net/osY/ERT/default/index.mpd",

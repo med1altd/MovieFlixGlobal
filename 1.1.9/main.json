@@ -66,7 +66,7 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": true,
+      "MessageAlert": false,
       "MessageText": "Live Παναθηναϊκός - ΑΕΚ - ΔΕΙΤΕ ΤΟ LIVE ΣΤΟ MOVIEFLIX ΣΤΙΣ 21:00 - Cosmote Sports 1",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",

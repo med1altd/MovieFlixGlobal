@@ -58,7 +58,7 @@
       "RewardedInterstitialAdsType": "Unity",
       "AppOpenAdsType": "Unity",
       "DelayEveryAdUnit": false,
-      "InitialDelay": "Nothing",
+      "InitialDelay": "10000000000",
       "TVDelayAdMob": 240000,
       "VideoDelayAdMob": 240000,
       "MoviesInfoDelayAdMob": 240000,

@@ -7,7 +7,7 @@
       "showAds": false,
       "showBannerAds": false,
       "showInterstitialAds": true,
-      "showInterstitialAdsLive": true,
+      "showInterstitialAdsLive": false,
       "showInterstitialAdsVideo": false,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
@@ -390,7 +390,7 @@
       "Title": "Μεταγλωττισμένες Παιδικές Σειρές",
       "Image": "https://deadline.com/wp-content/uploads/2022/11/MH_Clean.jpg",
       "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionMPS.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Παιδικά YouTube Κανάλια",

@@ -126,7 +126,8 @@
     {
       "Title": "MEGA",
       "Image": "https://i.postimg.cc/HLb0yrQs/mega.png",
-      "Video": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
+      "Video": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1717030033/ei/MXhXZo_TLOKI6dsP69qb-Ac/ip/2a02%3A859%3A231%3Ae100%3Acd6b%3Aeb56%3A2ac1%3Ac298/id/Mqdo8yUODRE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/gr/siu/1/spc/UWF9f2SXmDKVzRSL7N6aUAwdc1aUTSByyLm2QUFz-SNm8n1BuBad5KMO2L92IOlMn1SQvNCgxWh_/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgW1z1Vg-SjsdDeltNfbpwoODPNfZcBvJ9hnY2XcoT3mkCIQDpR3YnIT5sc1S6mHBS1GrddnRZAIPQ7aMYOgaCCDxebA%3D%3D/file/index.m3u8",
+      "VideoOld": "https://streamcdnb4-c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/1/MEGA",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "EndString": "</a><spa",

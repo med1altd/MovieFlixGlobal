@@ -68,12 +68,12 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": false,
+      "MessageAlert": true,
       "MessageText": "Live ΤΕΛΙΚΟΣ CONFERENCE LEAGUE: Ολυμπιακός - Φιορεντίνα - ΔΕΙΤΕ ΤΟ LIVE ΣΤΟ MOVIEFLIX ΣΤΙΣ 22:00 - Αν δεν λειτουργεί το κανάλι Mega TV Live δοκιμάστε το Κανάλι του Ολυμπιακού",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",
       "MessageAdditionalWay": "Image",
-      "MessageImageUrl": "https://www.gazzetta.gr/sites/default/files/styles/article_main_image/public/2023-04/tsumber.jpg?itok=_OQgwclG"
+      "MessageImageUrl": "https://www.sportime.gr/wp-content/uploads/2024/05/olympiakos2.jpg"
     }
   ],
   "Introduction": [

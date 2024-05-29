@@ -68,7 +68,7 @@
       "MoviesInfoDelayUnity": 10000,
       "SeriesInfoDelayUnity": 10000,
       "introductionEnabled": true,
-      "MessageAlert": true,
+      "MessageAlert": false,
       "MessageText": "Live ΤΕΛΙΚΟΣ CONFERENCE LEAGUE: Ολυμπιακός - Φιορεντίνα - ΔΕΙΤΕ ΤΟ LIVE ΣΤΟ MOVIEFLIX ΣΤΙΣ 22:00 - Αν δεν λειτουργεί το κανάλι Mega TV Live δοκιμάστε το Κανάλι του Ολυμπιακού",
       "MessageButtonText": "INSTALL",
       "MessageButtonDestination": "https://google.com",

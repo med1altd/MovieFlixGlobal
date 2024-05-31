@@ -181,7 +181,7 @@
   "Rating": [
     {
       "InstagramUserName": "med1altd",
-      "isInstagramVisisible": false,
+      "isInstagramVisisible": true,
       "isRatingVisible": true,
       "RatingUrl": "https://play.google.com/store/apps/details?id=com.med1a.movieflix",
       "isInfoVisible": true,

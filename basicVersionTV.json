@@ -11,7 +11,7 @@
     {
       "Title": "ERT1",
       "Image": "https://i.postimg.cc/C5csx9bG/ert1.png", 
-      "Video": "https://cdn1.smart-tv-data.com/live/ert1/playlist.m3u8",
+      "Video": "https://s2.cystream.net/live/ert1/chunks.m3u8?nimblesessionid=4257181&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xOS8yMDI0IDg6MDg6NDEgUE0maGFzaF92YWx1ZT01V20zOWNmUHZIcHNoTGlyOTJXYklnPT0mdmFsaWRtaW51dGVzPTIw",
       "VideoOld": "https://ertflix.s.llnwi.net/ertlive/ert1/default/index.mpd",
       "LiveUrl": "https://programmatileorasis.gr/free/18/%CE%95%CE%A1%CE%A41",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",

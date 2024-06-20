@@ -24,7 +24,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": true
     },
     {
       "Title": "ERT2",
@@ -41,7 +42,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false
     },
     {
       "Title": "ERT3",
@@ -58,7 +60,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false
     },
     {
       "Title": "ERT WORLD",
@@ -71,7 +74,8 @@
       "End": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false
     },
     {
       "Title": "ERT NEWS",
@@ -88,7 +92,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false    
     },
     {
       "Title": "ERT Kids",
@@ -105,7 +110,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false     
     },
     {
       "Title": "MEGA",
@@ -122,7 +128,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "ANT1",
@@ -139,7 +146,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false     
     },
     {
       "Title": "Makedonia TV",
@@ -156,7 +164,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "STAR",
@@ -174,7 +183,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "ALPHA",
@@ -191,7 +201,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "SKAI",
@@ -208,7 +219,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "OPEN",
@@ -225,7 +237,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "VOULI",
@@ -242,7 +255,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": true,
-      "liveDescription": true
+      "liveDescription": true,
+      "enabledDrm": false     
     },
     {
       "Title": "Action24",
@@ -259,7 +273,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false     
     },
     {
       "Title": "THESSALIA TV",
@@ -276,7 +291,8 @@
       "EndD": 0,
       "isUnlocked": true,
       "liveContent": false,
-      "liveDescription": false
+      "liveDescription": false,
+      "enabledDrm": false
     }
   ]
 }

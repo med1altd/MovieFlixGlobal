@@ -174,7 +174,7 @@
     {
       "Title": "STAR",
       "Image": "https://i.postimg.cc/sxH5r7RK/star.png",
-      "Video": "https://cdn1.smart-tv-data.com/live/star/playlist.m3u8",
+      "Video": "https://livestar.siliconweb.com/media/star4/star4.m3u8",
       "VideoOld": "https://livestar.siliconweb.com/media/star1/star1.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/3/STAR",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
@@ -193,7 +193,7 @@
     {
       "Title": "ALPHA",
       "Image": "https://i.postimg.cc/L8Y3mC5P/alpha.png",
-      "Video": "https://cdn1.smart-tv-data.com/live/alpha/playlist.m3u8",
+      "Video": "https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8",
       "LiveUrl": "https://programmatileorasis.gr/free/5/ALPHA",
       "StartString": "</td><td style=\"color:black;\" class=\"categ\">",
       "EndString": "</a><spa",
